@@ -4,7 +4,7 @@ All collections are based on the ICollection or ICollection<T> interfaces, eithe
 
 In collections based on IList or directly on ICollection, every element contains only a value. 
 These types include:
-	1. Array
+  1. Array
   2. ArrayList
   3. List<T>
   4. Queue
