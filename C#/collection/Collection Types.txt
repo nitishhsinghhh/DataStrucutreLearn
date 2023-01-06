@@ -1,7 +1,7 @@
 
 Commonly used collection types
 Collection types represent different ways to collect data, such as hash tables, queues, stacks, bags, dictionaries, and lists.
-All collections are based on the ICollection or ICollection<T> interfaces, either directly or indirectly. IList and IDictionary and their generic counterparts all     derive from these two interfaces.
+All collections are based on the ICollection or ICollection<T> interfaces, either directly or indirectly. IList and IDictionary and their generic counterparts all derive from these two interfaces.
 
 In collections based on IList or directly on ICollection, every element contains only a value. 
 These types include:
