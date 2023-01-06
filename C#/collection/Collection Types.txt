@@ -20,7 +20,7 @@ In collections based on the IDictionary interface, every element contains both a
   4. Dictionary<TKey,TValue>
   5. ConcurrentDictionary<TKey,TValue>
   
-The KeyedCollection<TKey,TItem> class is unique because it is a list of values with keys embedded within the values. As a result, it behaves both like a list and   like a dictionary.
+The KeyedCollection<TKey,TItem> class is unique because it is a list of values with keys embedded within the values. As a result, it behaves both like a list and like a dictionary.
 When you need efficient multi-threaded collection access, use the generic collections in the System.Collections.Concurrent namespace.
 The Queue and Queue<T> classes provide first-in-first-out lists. The Stack and Stack<T> classes provide last-in-first-out lists.
 
