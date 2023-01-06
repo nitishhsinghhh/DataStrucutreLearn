@@ -45,10 +45,10 @@ The LINQ to Objects feature provides a common pattern for accessing in-memory ob
 
 Related topics
 A. Collections and Data Structures:
-	 Discusses the various collection types available in .NET, including stacks, queues, lists, arrays, and dictionaries.
+Discusses the various collection types available in .NET, including stacks, queues, lists, arrays, and dictionaries.
 B. Hashtable and Dictionary Collection Types: 
-	 Describes the features of generic and nongeneric hash-based dictionary types.
+Describes the features of generic and nongeneric hash-based dictionary types.
 C. Sorted Collection Types:
-	 Describes classes that provide sorting functionality for lists and sets.
+Describes classes that provide sorting functionality for lists and sets.
 D. Generics:	
-	 Describes the generics feature, including the generic collections, delegates, and interfaces provided by .NET. Provides links to feature documentation for C#, Visual Basic, and Visual C++, and to supporting technologies such as reflection.
+Describes the generics feature, including the generic collections, delegates, and interfaces provided by .NET. Provides links to feature documentation for C#, Visual Basic, and Visual C++, and to supporting technologies such as reflection.
